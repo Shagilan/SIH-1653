@@ -62,15 +62,24 @@ Suggests improvements for candidates.
 ## Technology Stack
 ### **Tech Stack Overview** 🚀  
 1️⃣ Frontend: React.js
+
 2️⃣ Backend: Node.js (Express.js)
+
 3️⃣ AI & NLP: OpenAI GPT
+
 4️⃣ Database: PostgreSQL
+
 5️⃣ Cloud & Deployment: AWS
+
 6️⃣ Security: AES-256 Encryption
 
 ## Dependencies
 🔹Manpower Cost: ₹2-3 crore (~₹10-15 lakh per developer for 12-18 months).
+
 🔹Cloud Infrastructure: ₹20-30 lakh (AWS/GCP for hosting, storage, and compute).
+
 🔹AI & NLP APIs: ₹10-15 lakh (OpenAI, Google Dialogflow, TensorFlow).
+
 🔹Software & Licensing: ₹5-10 lakh (Security tools, DevOps, UI frameworks).
+
 🔹Miscellaneous (Testing, Maintenance, Support): ₹10-15 lakh.
