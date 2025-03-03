@@ -12,22 +12,26 @@ Ministry of Defence
 
 ## Idea
 Key Features1. Virtual Boardroom Experience
-A web-based simulation of an interview room where candidates face expert panelists in a structured format.
+1.A web-based simulation of an interview room where candidates face expert panelists in a structured format.
 Supports live and AI-driven interviews with automated assessment.
+
 2. AI-Powered Questioning & Evaluation
 Uses Natural Language Processing (NLP) to generate relevant questions based on the applicant's domain expertise.
 Ice-breaking → Techno-managerial → In-depth discussions structured for fairness.
 AI evaluates response relevance and technical accuracy.
+
 3. Scoring & Unbiased Assessment
 Automated real-time scoring system for:
 Question relevancy to expertise.
 Response relevancy to the question.
 Overall subject knowledge & suitability for the role.
 Helps minimize human bias in evaluations.
+
 4. Multi-user Role Management
 Interviewers: Ask questions & review scores.
 Candidates: Provide responses & get feedback.
 Admins: Manage interviews, track analytics, and improve hiring efficiency.
+
 5. Tech Stack Recommendations
 Frontend: React.js / Angular.
 Backend: Django / Node.js.
